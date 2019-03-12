@@ -34,7 +34,7 @@ a {
     max-width: 1024px;
 }
 
-.navbar{
+.navbar {
     position: fixed;
 }
 
@@ -64,7 +64,7 @@ a {
     font-size: 1.2rem;
 }
 
-.navbar-list ul li:hover{
+.navbar-list ul li:hover {
     transform: scale(1.2);
     transition: 0.2s all ease;
 }
@@ -113,7 +113,7 @@ a {
     font-size: 1.6rem;
 }
 
-.about-text p{
+.about-text p {
     max-width: 655px;
     margin-top: 20px;
 }
@@ -241,8 +241,7 @@ a {
 .contacts {
     display: grid;
     grid-template:
-        'vk vk fb fb st st' 50px
-        'mail mail mail phone phone phone' 50px;
+        'vk vk fb fb st st'50px 'mail mail mail phone phone phone'50px;
     grid-row-gap: 15px;
     padding: 0 200px;
 }
