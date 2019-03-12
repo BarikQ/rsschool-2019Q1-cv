@@ -206,11 +206,11 @@
   }
   
   .projects-txt:hover{
-      opacity: 1;
-      cursor: pointer;
-      border-radius: 50%;
+    opacity: 1;
+    cursor: pointer;
+    border-radius: 50%;
   }
   
   .projects-txt p{
-      margin-top: 80px;
+    margin-top: 80px;
   }
