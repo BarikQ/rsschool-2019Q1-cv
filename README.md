@@ -1,1 +1,1 @@
-https://barikq.github.io/rsschool-2019Q1-cv/cv.md
+https://barikq.github.io/rsschool-2019Q1-cv/cv
